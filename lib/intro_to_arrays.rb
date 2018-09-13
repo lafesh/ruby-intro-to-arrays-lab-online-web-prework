@@ -10,15 +10,18 @@ end
 
 def first_element(taylor_swift)
   my_first_element = [taylor_swift]
-  return my_first_element[0]
+  my_first_element[0]
 end
 
 def third_element(taylor_swift)
   my_third_element = [taylor_swift]
-  return my_third_element[2]
+  my_third_element[2]
 end
 
 def last_element(taylor_swift)
   my_last_element = [taylor_swift]
-  return my_last_element.index[-1]
+  my_last_element[-1]
 end
+
+def first_element_with_array_methods()
+  
