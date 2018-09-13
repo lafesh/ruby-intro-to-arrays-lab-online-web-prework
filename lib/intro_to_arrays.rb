@@ -11,3 +11,4 @@ end
 def first_element(element)
   my_first_element = [element]
   return my_first_element[0]
+end
