@@ -10,15 +10,15 @@ end
 
 def first_element(taylor.swift)
   my_first_element = [taylor.swift]
-  return my_first_element[0]
+  return my_first_element.index[0]
 end
 
-def third_element(array)
-  my_third_element = [array]
+def third_element(taylor.swift)
+  my_third_element = [taylor.swift]
   return my_third_element[2]
 end
 
-def last_element(array)
-  my_last_element = [array]
+def last_element(taylor.swift)
+  my_last_element = [taylor.swift]
   return my_last_element[-1]
 end
