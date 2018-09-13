@@ -14,6 +14,11 @@ def first_element(array)
 end
 
 def third_element(array)
-  my_first_element = [array]
-  return my_first_element[0]
+  my_third_element = [array]
+  return my_third_element[2]
+end
+
+def last_element(array)
+  my_last_element = [array]
+  return my_last_element[-1]
 end
