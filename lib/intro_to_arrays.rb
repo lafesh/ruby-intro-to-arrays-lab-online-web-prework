@@ -12,3 +12,8 @@ def first_element(array)
   my_first_element = [array]
   return my_first_element[0]
 end
+
+def third_element(array)
+  my_first_element = [array]
+  return my_first_element[0]
+end
