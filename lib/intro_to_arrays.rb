@@ -8,8 +8,8 @@ def array_with_two_elements
   return my_two_array
 end
 
-def first_element(array)
-  my_first_element = [array]
+def first_element(taylor.swift)
+  my_first_element = [taylor.swift]
   return my_first_element[0]
 end
 
