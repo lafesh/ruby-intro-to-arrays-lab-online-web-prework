@@ -20,5 +20,5 @@ end
 
 def last_element(taylor_swift)
   my_last_element = [taylor_swift]
-  return my_last_element[-1]
+  return my_last_element.index[-1]
 end
