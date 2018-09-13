@@ -8,17 +8,17 @@ def array_with_two_elements
   return my_two_array
 end
 
-def first_element(taylor.swift)
-  my_first_element = [taylor.swift]
+def first_element(taylor_swift)
+  my_first_element = [taylor_swift]
   return my_first_element.index[0]
 end
 
-def third_element(taylor.swift)
-  my_third_element = [taylor.swift]
+def third_element(taylor_swift)
+  my_third_element = [taylor_swift]
   return my_third_element[2]
 end
 
-def last_element(taylor.swift)
-  my_last_element = [taylor.swift]
+def last_element(taylor_swift)
+  my_last_element = [taylor_swift]
   return my_last_element[-1]
 end
