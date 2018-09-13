@@ -10,7 +10,7 @@ end
 
 def first_element(taylor_swift)
   my_first_element = [taylor_swift]
-  return my_first_element.index[0]
+  return my_first_element[0]
 end
 
 def third_element(taylor_swift)
